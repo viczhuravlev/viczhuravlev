@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I'm Victor Zhuravlev.
 
-<!--
-**viczhuravlev/viczhuravlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there 👋
 
-Here are some ideas to get you started:
+I'm a Full-Stack developer from Moscow who likes to work with JavaScript/Typescript. I'm especially focusing on front-end with React.js and back-end with Express.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>Languages used in my public repos:</b>
+  <br />
+  <br />
+  <code><img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viczhuravlev&layout=compact" alt="Top language used in my repos" /> </code>
+  <br />  
+  <br />
+  <small>I'm big fan of JavaScript 😜</small>
+  <br />
+  <br />	
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+</div>
+  
+![Profile views](https://gpvc.arturio.dev/viczhuravlev)
