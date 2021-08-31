@@ -4,6 +4,16 @@ Hey there 👋
 
 I'm a Full-Stack developer from Moscow who likes to work with JavaScript/Typescript. I mainly specialize in front-end with React.js and back-end with Express.js.
 
+### Skills
+
+> 🎨 Frontend: React, Typescript, Webpack + Module Federation (Micro-Frontend)
+> 
+> ⚙️ Backend: NodeJS, Typescript
+> 
+> 🚀 CI/CD: Docker, Docker Compose
+> 
+> 🛡 Testing: Jest, Cypress
+
 <div align="center">
   <h3>Languages used in my public repos:</b>
   <br />
