@@ -13,6 +13,4 @@
 
 ## Направления
 
-[comment]: <> (- [Front-end]&#40;./frontend/README.md&#41;)
-[comment]: <> (- [Back-end]&#40;./backend/README.md&#41;)
-[comment]: <> (- [DevOps]&#40;./devops/README.md&#41;)
+- [Front-end](./frontend/README.md)
