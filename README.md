@@ -2,7 +2,7 @@
 
 Hey there 👋
 
-I'm a Full-Stack developer from Moscow who likes to work with JavaScript/Typescript. I mainly specialize in front-end with React.js and back-end with Express.js.
+I'm a Full-Stack developer who likes to work with JavaScript/Typescript. I mainly specialize in front-end with React.js and back-end with node.js..
 
 ### Skills
 
