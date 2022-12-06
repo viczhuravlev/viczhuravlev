@@ -1,4 +1,4 @@
 # Front-end
 
-- [JavasScript](./javascript/README.md)
+- [Browser](browser/README.md)
 - [React](./react/README.md)
