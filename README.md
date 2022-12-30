@@ -23,9 +23,8 @@ I'm a Full-Stack developer who likes to work with JavaScript/Typescript. I mainl
 </div>
 
 <br />
-<br />
 
 <div align="center">
-    <p><img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=viczhuravlev&show_icons=true&locale=en&layout=compact" alt="viczhuravlev" /></p>
-    <p><img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=viczhuravlev&" alt="viczhuravlev" /></p>
+    <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=viczhuravlev&show_icons=true&locale=en&layout=compact" alt="viczhuravlev" />
+    <img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=viczhuravlev&" alt="viczhuravlev" />
 </div>
