@@ -28,11 +28,10 @@ I'm a Full-Stack developer who likes to work with JavaScript/Typescript. I mainl
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 </div>
 
-<table>
-    <tbody>
-        <tr>
-            <td><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=viczhuravlev&show_icons=true&locale=en&layout=compact" alt="viczhuravlev" /></td>
-            <td><img align="center" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=viczhuravlev&" alt="viczhuravlev" /></td>
-        </tr>
-    </tbody>
-</table>
+<br />
+<br />
+
+|                                                                                                                                                                                   |                                                                                                                                      |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=viczhuravlev&show_icons=true&locale=en&layout=compact" alt="viczhuravlev" />  | <img align="center" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=viczhuravlev&" alt="viczhuravlev" />  |
+
