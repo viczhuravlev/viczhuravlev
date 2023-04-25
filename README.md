@@ -10,9 +10,11 @@ I'm a Full-Stack developer who likes to work with JavaScript/Typescript. I mainl
 > 
 > ⚙️ Backend: NodeJS, Typescript
 > 
+> 💽 Database: PostgreSql, MongoDB
+> 
 > 🚀 CI/CD: Docker, Docker Compose
 > 
-> 🛡 Testing: Jest, Cypress
+> 🛡 Testing: Jest, Testing Library, Playwright
 
 <br>
 
