@@ -17,6 +17,21 @@ function test(value: number): number | never {
 }
 ```
 
+### Infer
+
+> Ключевое слово `infer` позволяет выводить один тип из другого внутри условного типа.
+
+```ts
+const data =  [
+  { name: 'First addon', id: 1 },
+  { name: 'Second addon', id: 2 }
+];
+
+type UnpackArray<T> = T extends (infer R)[] ? R : T
+
+type DataType = UnpackArray<typeof data> // { name: string, id: number }
+```
+
 ## Tricks with types
 
 ### Type assertion (утверждение типа)
@@ -47,21 +62,6 @@ function isUser(value: any): value is User {
 function isNumber(value: any): asserts value is number {
   if (typeof value !== 'number') throw Error('Переданное значение не является числом!')
 }
-```
-
-## Infer
-
-> Ключевое слово `infer` позволяет выводить один тип из другого внутри условного типа.
-
-```ts
-const data =  [
-  { name: 'First addon', id: 1 },
-  { name: 'Second addon', id: 2 }
-];
-
-type UnpackArray<T> = T extends (infer R)[] ? R : T
-
-type DataType = UnpackArray<typeof data> // { name: string, id: number }
 ```
 
 
