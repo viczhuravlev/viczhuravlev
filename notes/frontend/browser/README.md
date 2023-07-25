@@ -1,5 +1,34 @@
 # Browser
 
+## Base
+
+### Event Propagation: capturing(фазы погружения), target and bubbling(всплытия)
+Event Propagation - это базовое поведения Document Object Model.
+
+Сначала происходит фаза погружения(capturing) и захват цели(target):
+```shell
+window
+  document
+    body
+      div
+        ...
+          div
+            {target}
+```
+
+Затем фаза всплытия(bubbling) от захваченой цели(target):
+```shell
+            {target}
+          div
+        ...
+      div
+    body
+  document
+window
+```
+Что бы остановить всплытие - стоит использовать `stopPropagation`.
+
+
 ## API
 
 ### IntersectionObserver
