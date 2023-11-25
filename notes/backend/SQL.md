@@ -11,13 +11,22 @@
 
 ### SELECT
 ```sql
-    SELECT column1, column2, ...
-    FROM table_name;
-    WHERE condition
-    GROUP BY column_name
-    HAVING aggregate_function(column_name) operator value
-    ORDER BY column_name ASC/DESC
-    LIMIT first_value [, last_value]
+    SELECT 
+        column1, column2, ...
+    FROM 
+        table_name;
+    JOIN 
+        table_name ON condition
+    WHERE 
+        conditions
+    GROUP BY 
+        column_name
+    HAVING 
+        aggregate_function(column_name) operator value
+    ORDER BY 
+        column_name ASC/DESC
+    LIMIT 
+        first_value [, last_value]
 ```
 
 ### INSERT
@@ -70,6 +79,14 @@
 
 
 ## Operators
+
+### AS 
+> Для именования результирующих столбцов при выборке элементов
+
+```sql
+    SELECT column_name AS new_column_name 
+    FROM table_name
+```
 
 ### DISTINCT - только уникальне значения столбца
 ```sql
@@ -143,3 +160,34 @@ Pattern matching:
     EXCEPT
     SELECT column_name(s) FROM table2
 ```
+
+## Joins
+
+![Joins](./images/sql/joins.png)
+
+* INNER JOIN or JOIN
+* LEFT, RIGHT
+* FULL
+* CROSS
+* SELF
+
+```sql
+    SELECT
+        column_names [,... n]
+    FROM
+        table_name_1 
+    JOIN table_name_2 ON table_name_1.column_id = table_name_2.column_id
+```
+
+### USING (column_name(s))
+> Является синтаксическим сахарочком над ON.
+>  Cлужит для указания списка столбцов, которые должны существовать в обеих таблицах.
+
+```sql
+    SELECT
+        column_names [,... n]
+    FROM
+        table_name_1 
+    JOIN table_name_2 USING(column_id)
+```
+
