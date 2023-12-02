@@ -1,3 +1,3 @@
 # Back-end
 
-- [SQL](./SQL.md)
+- [SQL](./sql//README.md)
