@@ -17,7 +17,7 @@
 
 ### ALTER
 
-> Добавляет данные
+> Вносить изменения в структуру уже существующей таблицы
 
 ```sql
     ALTER TABLE table_name
@@ -69,9 +69,36 @@
 
 ### INSERT
 
+> Вносит изменения в структуру таблиц: 
+> добавляет запись (строки) и заполняет их значениями
+
+```sql
+    INSERT INTO table_name (column_name, ...) 
+    VALUES (expressions, ...)
+    RETURNING (column_name, ...) or *
+```
+
+
 ### UPDATE
 
+> Используется для изменения значений в записях таблицы
+
+```sql
+    UPDATE table_name 
+    SET expression [WHERE condition]
+    WHERE condition
+    RETURNING (column_name, ...) or *
+```
+
 ### DELETE
+
+> Удаляет строки из временных или постоянных базовых таблиц
+
+```sql
+    DELETE FROM table_name 
+    WHERE condition
+```
+
 
 ## Math
 
