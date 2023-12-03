@@ -45,6 +45,24 @@
     FROM table_name
 ```
 
+## COALESCE
+
+> Возвращает первое значение не равное NULL
+
+```sql
+    SELECT COALESCE(column_name, 'unknown') as column_name
+    FROM table_name
+```
+
+## NULLIF
+
+> Возвращает значение NULL, если два указанных выражения равны
+
+```sql
+    SELECT NULLIF(4,4) AS Same, NULLIF(5,7) AS Different
+    FROM table_name
+```
+
 
 # Operators
 

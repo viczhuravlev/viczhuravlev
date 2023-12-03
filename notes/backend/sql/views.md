@@ -21,14 +21,14 @@ OR
     SELECT select_statment
 ```
 
-### Rename
+## Rename
 
 ```sql
     ALTER VIEW old_view_name RENAME 
     TO new_view_name
 ```
 
-### Remove
+## Remove
 
 ```sql
     DROP VIEW [IF EXISTS] view_name

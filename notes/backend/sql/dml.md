@@ -51,3 +51,31 @@
     DELETE FROM table_name 
     WHERE condition
 ```
+
+## CASE WHEN
+
+> Позволяет писать условия в выборке 
+
+```sql
+    CASE
+        WHEN condition_1 THEN result_1
+        WHEN condition_2 THEN result_2
+        [WHEN ...]
+        [ELSE result_n]
+    END
+```
+
+Пример:
+
+```sql
+    SELECT column_name1, column_name2,
+        CASE
+            WHEN date_part('month', column_date) BETWEEN 3 AND 5 THEN 'spring'
+            WHEN date_part('month', column_date) BETWEEN 6 AND 8 THEN 'summer'
+            WHEN date_part('month', column_date) BETWEEN 9 AND 11 THEN 'autumn'
+            ELSE 'winter'
+        END AS season
+    FROM orders;
+```
+
+
