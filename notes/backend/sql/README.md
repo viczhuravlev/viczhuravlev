@@ -10,4 +10,5 @@
 - [Indexes](./indexes.md)
 - [Views](./views.md)
 - [Triggers](./triggers.md)
+- [Security](./security.md)
 - [Others](./others.md)
