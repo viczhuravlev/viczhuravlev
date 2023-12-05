@@ -49,3 +49,16 @@
 		(SELECT  column_name
 			FROM table_name)
 ```
+
+# CTE - Common Table Expression
+
+> Как подзапросы, но только более гибкие и удобные, могут быть рекурсивными
+> 
+> Позволяют строить временные таблицы (или представления) в рамках большого запроса
+
+```sql
+    WITH name AS (
+        SELECT clause
+    )
+    SELECT «using WITH part»
+```
