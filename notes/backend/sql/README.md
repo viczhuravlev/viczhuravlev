@@ -9,4 +9,5 @@
 - [Design DB](./design.md)
 - [Indexes](./indexes.md)
 - [Views](./views.md)
+- [Triggers](./triggers.md)
 - [Others](./others.md)
