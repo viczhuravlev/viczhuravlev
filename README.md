@@ -2,28 +2,48 @@
 
 Hey there 👋
 
-I'm a Full-Stack developer who likes to work with JavaScript/Typescript. I mainly specialize in front-end with React.js and back-end with node.js..
+I'm a Full-Stack developer who likes to work with JavaScript and Go. I mainly specialize in front-end with React.js and back-end with Node.js/Go. 🌓
 
 ### Skills
 
-> 🎨 Frontend: React, Typescript, Webpack + Module Federation (Micro-Frontend)
-> 
-> ⚙️ Backend: NodeJS, Typescript
-> 
-> 💽 Database: PostgreSql, MongoDB
-> 
-> 🚀 CI/CD: Docker, Docker Compose
-> 
-> 🛡 Testing: Jest, Testing Library, Playwright
+#### 🎨 Frontend
+
+* 🧬 React, Typescript
+    * React Router, React Query, Next.js
+* 📦 Webpack + Module Federation (Micro-Frontend)
+
+#### ⚙️ Backend
+
+* 🟢 NodeJS, Typescript
+    * Express, Koa, Fastify, Nest.js
+* 🔵 Go
+
+#### 💽 Database:
+
+* 🐘 PostgreSQL
+* 🍃 MongoDB
+
+#### 🛡 Testing
+
+* 🧱 Unit
+    * Jest, Testing Library
+* 🔗 Integration
+    * Playwright
+* 🧪 E2E
+    * Cypress, Playwright
+
+#### 🚀 CI/CD:
+
+* 🐳 Docker, Docker Compose
 
 <br>
 
 <div align="center">
-  <p>I'm big fan of JavaScript 😜</p>
+  <p>I'm big fan of JavaScript and Go 😜</p>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 </div>
 
 <br />
