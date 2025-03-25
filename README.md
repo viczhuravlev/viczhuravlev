@@ -17,6 +17,7 @@ I'm a Full-Stack developer who likes to work with JavaScript and Go. I mainly sp
 * 🟢 NodeJS, Typescript
     * Express, Koa, Fastify, Nest.js
 * 🔵 Go
+    * Fiber
 
 #### 💽 Database:
 
