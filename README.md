@@ -1,12 +1,3 @@
-<style>
-    table {
-        border-collapse: collapse;
-    }
-    table, th, td {
-        border: none;
-    }
-</style>
-
 <h3 align="center">I'm big fan of JavaScript and Go 😜</h3>
 
 <div align="center">
@@ -19,8 +10,8 @@
 <br />
 
 <table align="center">
-  <tr>
-    <td align="center">
+  <tr style="border: 0px;">
+    <td align="center" style="border:0px;">
       <h3>🎨 Frontend</h3>
       <div>
         <img width="30" height="30" src="./assets/frontend/html5.svg" />
@@ -30,7 +21,7 @@
         <img width="30" height="30" src="./assets/frontend/vite.svg" />
       </div>
     </td>
-    <td align="center">
+    <td align="center" style="border:0px;">
       <h3>⚙️ Backend</h3>
       <div>
         <img width="30" height="30" src="./assets/backend/fastify.svg" />
@@ -41,7 +32,7 @@
         <img width="30" height="30" src="./assets/backend/docker.svg" />
       </div>
     </td>
-    <td align="center">
+    <td align="center" style="border:0px;">
       <h3>🛡 Testing</h3>
       <div>
         <img width="30" height="30" src="./assets/testing/jest.svg" />
