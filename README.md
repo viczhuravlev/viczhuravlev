@@ -2,10 +2,12 @@
 
 <div align="center">
   <p>I'm big fan of JavaScript and Go 😜</p>
-  <code><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  <code><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <code><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+  <div style="display: flex; gap: 10px;">
+    <span style="margin-right: 10px;"><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></span>
+    <span style="margin-right: 10px;"><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></span>
+    <span style="margin-right: 10px;"><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></span>
+    <span style="margin-right: 10px;"><img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></span>
+  </div>
 </div>
 
 ## Skills
@@ -14,72 +16,37 @@
 
 **🎨 Frontend**
 
-<div>
-    <code>
-        <img width="30" height="30" src='./assets/frontend/html5.svg' />
-    </code>
-    <code>
-        <img width="30" height="30" src='./assets/frontend/css.svg' />
-    </code>
-    <code>
-        <img width="30" height="30" src='./assets/frontend/react.svg' />
-    </code>
-    <code>
-        <img width="30" height="30" src='./assets/frontend/reactrouter.svg' />
-    </code>
-    <code>
-        <img width="30" height="30" src='./assets/frontend/reactquery.svg' />
-    </code>
-    <code>
-        <img width="30" height="30" src='./assets/frontend/reacthookform.svg' />
-    </code>
-    <code>
-        <img width="30" height="30" src='./assets/frontend/webpack.svg' />
-    </code>
-    <code>
-        <img width="30" height="30" src='./assets/frontend/vite.svg' />
-    </code>
+<div style="display: flex; gap: 10px;">
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/frontend/html5.svg" /></span>
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/frontend/css.svg" /></span>
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/frontend/react.svg" /></span>
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/frontend/reactrouter.svg" /></span>
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/frontend/reactquery.svg" /></span>
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/frontend/reacthookform.svg" /></span>
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/frontend/webpack.svg" /></span>
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/frontend/vite.svg" /></span>
 </div>
 
 **⚙️ Backend**
 
-<div>
-    <code>
-        <img width="30" height="30" src='./assets/backend/fastify.svg' />
-    </code>
-    <code>
-        <img width="30" height="30" src='./assets/backend/nestjs.svg' />
-    </code>
-    <code>
-        <img width="30" height="30" src='./assets/backend/postgresql.svg' />
-    </code>
-    <code>
-        <img width="30" height="30" src='./assets/backend/mongodb.svg' />
-    </code>
-    <code>
-        <img width="30" height="30" src='./assets/backend/drizzle.svg' />
-    </code>
-    <code>
-        <img width="30" height="30" src='./assets/backend/docker.svg' />
-    </code>
+<div style="display: flex; gap: 10px;">
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/backend/fastify.svg" /></span>
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/backend/nestjs.svg" /></span>
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/backend/postgresql.svg" /></span>
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/backend/mongodb.svg" /></span>
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/backend/drizzle.svg" /></span>
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/backend/docker.svg" /></span>
 </div>
 
 **🛡 Testing**
 
-<div>
-    <code>
-        <img width="30" height="30" src='./assets/testing/jest.svg' />
-    </code>
-    <code>
-        <img width="30" height="30" src='./assets/testing/vitest.svg' />
-    </code>
-    <code>
-        <img width="30" height="30" src='./assets/testing/testinglibrary.svg' />
-    </code>
-    <code>
-        <img width="30" height="30" src='./assets/testing/cypress.svg' />
-    </code>
-</pdiv
+<div style="display: flex; gap: 10px;">
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/testing/jest.svg" /></span>
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/testing/vitest.svg" /></span>
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/testing/testinglibrary.svg" /></span>
+  <span style="margin-right: 10px;"><img width="30" height="30" src="./assets/testing/cypress.svg" /></span>
+</div>
+
 ## Some of my stats
 
 <div align="center">
