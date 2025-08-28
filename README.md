@@ -45,6 +45,6 @@
 <br />
 
 <div align="center">
-  <img height="170px" alt="Viczhuravlev's github stats" src="https://github-readme-stats.vercel.app/api?username=viczhuravlev&show_icons=true&hide_border=true" />
+  <img height="170px" alt="Viczhuravlev's github stats" src="https://github-readme-stats.vercel.app/api?username=viczhuravlev&show_icons=true&hide_border=true&theme=transparent" />
   <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=viczhuravlev&" alt="viczhuravlev" />
 </div>
