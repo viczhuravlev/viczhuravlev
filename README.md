@@ -10,8 +10,8 @@
 <br />
 
 <table align="center">
-  <tr style="border: 0px;">
-    <td align="center" style="border:0px;">
+  <tr>
+    <td align="center">
       <h3>🎨 Frontend</h3>
       <div>
         <img width="30" height="30" src="./assets/frontend/html5.svg" />
@@ -21,7 +21,7 @@
         <img width="30" height="30" src="./assets/frontend/vite.svg" />
       </div>
     </td>
-    <td align="center" style="border:0px;">
+    <td align="center">
       <h3>⚙️ Backend</h3>
       <div>
         <img width="30" height="30" src="./assets/backend/fastify.svg" />
@@ -32,7 +32,7 @@
         <img width="30" height="30" src="./assets/backend/docker.svg" />
       </div>
     </td>
-    <td align="center" style="border:0px;">
+    <td align="center">
       <h3>🛡 Testing</h3>
       <div>
         <img width="30" height="30" src="./assets/testing/jest.svg" />
@@ -45,9 +45,8 @@
 </table>
 
 <br />
-<br />
 
 <div align="center">
   <img height="170px" alt="Viczhuravlev's github stats" src="https://github-readme-stats.vercel.app/api?username=viczhuravlev&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=viczhuravlev&" alt="viczhuravlev" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=viczhuravlev&theme=transparent&mode=weekly&card_height=170" alt="GitHub Streak" /></a>
 </div>
