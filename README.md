@@ -1,48 +1,48 @@
 <h3 align="center">I'm big fan of JavaScript and Go 😜</h3>
 
-<div align="center" style="display: flex; gap: 10px;">
-  <div style="display: flex; gap: 10px;">
-    <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-    <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-    <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-    <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
-  </div>
+<div align="center">
+  <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+  <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
 </div>
 
 <br />
 
-<div align="center" style="display: flex; gap: 30px; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <h3>🎨 Frontend</h3>
-    <div style="display: flex; gap: 10px;">
-      <img width="30" height="30" src="./assets/frontend/html5.svg" />
-      <img width="30" height="30" src="./assets/frontend/css.svg" />
-      <img width="30" height="30" src="./assets/frontend/react.svg" />
-      <img width="30" height="30" src="./assets/frontend/webpack.svg" />
-      <img width="30" height="30" src="./assets/frontend/vite.svg" />
-    </div>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <h3>⚙️ Backend</h3>
-    <div style="display: flex; gap: 10px;">
-      <img width="30" height="30" src="./assets/backend/fastify.svg" />
-      <img width="30" height="30" src="./assets/backend/nestjs.svg" />
-      <img width="30" height="30" src="./assets/backend/postgresql.svg" />
-      <img width="30" height="30" src="./assets/backend/mongodb.svg" />
-      <img width="30" height="30" src="./assets/backend/drizzle.svg" />
-      <img width="30" height="30" src="./assets/backend/docker.svg" />
-    </div>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <h3>🛡 Testing</h3>
-    <div style="display: flex; gap: 10px;">
-      <img width="30" height="30" src="./assets/testing/jest.svg" />
-      <img width="30" height="30" src="./assets/testing/vitest.svg" />
-      <img width="30" height="30" src="./assets/testing/testinglibrary.svg" />
-      <img width="30" height="30" src="./assets/testing/cypress.svg" />
-    </div>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>🎨 Frontend</h3>
+      <div>
+        <img width="30" height="30" src="./assets/frontend/html5.svg" />
+        <img width="30" height="30" src="./assets/frontend/css.svg" />
+        <img width="30" height="30" src="./assets/frontend/react.svg" />
+        <img width="30" height="30" src="./assets/frontend/webpack.svg" />
+        <img width="30" height="30" src="./assets/frontend/vite.svg" />
+      </div>
+    </td>
+    <td align="center">
+      <h3>⚙️ Backend</h3>
+      <div>
+        <img width="30" height="30" src="./assets/backend/fastify.svg" />
+        <img width="30" height="30" src="./assets/backend/nestjs.svg" />
+        <img width="30" height="30" src="./assets/backend/postgresql.svg" />
+        <img width="30" height="30" src="./assets/backend/mongodb.svg" />
+        <img width="30" height="30" src="./assets/backend/drizzle.svg" />
+        <img width="30" height="30" src="./assets/backend/docker.svg" />
+      </div>
+    </td>
+    <td align="center">
+      <h3>🛡 Testing</h3>
+      <div>
+        <img width="30" height="30" src="./assets/testing/jest.svg" />
+        <img width="30" height="30" src="./assets/testing/vitest.svg" />
+        <img width="30" height="30" src="./assets/testing/testinglibrary.svg" />
+        <img width="30" height="30" src="./assets/testing/cypress.svg" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br />
 <br />
