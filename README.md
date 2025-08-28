@@ -1,3 +1,12 @@
+<style>
+    table {
+        border-collapse: collapse;
+    }
+    table, th, td {
+        border: none;
+    }
+</style>
+
 <h3 align="center">I'm big fan of JavaScript and Go 😜</h3>
 
 <div align="center">
