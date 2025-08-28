@@ -25,7 +25,6 @@
       <h3>⚙️ Backend</h3>
       <div>
         <img width="30" height="30" src="./assets/backend/fastify.svg" />
-        <img width="30" height="30" src="./assets/backend/nestjs.svg" />
         <img width="30" height="30" src="./assets/backend/postgresql.svg" />
         <img width="30" height="30" src="./assets/backend/mongodb.svg" />
         <img width="30" height="30" src="./assets/backend/drizzle.svg" />
