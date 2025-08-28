@@ -1,4 +1,4 @@
-<h3 style="text-align: center;">I'm big fan of JavaScript and Go 😜</h3>
+<h3 align="center">I'm big fan of JavaScript and Go 😜</h3>
 
 <div align="center" style="display: flex; gap: 10px;">
   <div style="display: flex; gap: 10px;">
@@ -9,7 +9,9 @@
   </div>
 </div>
 
-<h3 style="text-align: center;">🎨 Frontend</h3>
+<br />
+
+<h3 align="center">🎨 Frontend</h3>
 
 <div align="center" style="display: flex; gap: 10px;">
   <img width="30" height="30" src="./assets/frontend/html5.svg" />
@@ -22,7 +24,7 @@
   <img width="30" height="30" src="./assets/frontend/vite.svg" />
 </div>
 
-<h3 style="text-align: center;">⚙️ Backend</h3>
+<h3 align="center">⚙️ Backend</h3>
 
 <div align="center" style="display: flex; gap: 10px;">
   <img width="30" height="30" src="./assets/backend/fastify.svg" />
@@ -33,7 +35,7 @@
   <img width="30" height="30" src="./assets/backend/docker.svg" />
 </div>
 
-<h3 style="text-align: center;">🛡 Testing</h3>
+<h3 align="center">🛡 Testing</h3>
 
 <div align="center" style="display: flex; gap: 10px;">
   <img width="30" height="30" src="./assets/testing/jest.svg" />
@@ -42,6 +44,7 @@
   <img width="30" height="30" src="./assets/testing/cypress.svg" />
 </div>
 
+<br />
 <br />
 
 <div align="center">
