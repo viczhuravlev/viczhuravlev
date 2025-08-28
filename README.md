@@ -17,9 +17,6 @@
   <img width="30" height="30" src="./assets/frontend/html5.svg" />
   <img width="30" height="30" src="./assets/frontend/css.svg" />
   <img width="30" height="30" src="./assets/frontend/react.svg" />
-  <img width="30" height="30" src="./assets/frontend/reactrouter.svg" />
-  <img width="30" height="30" src="./assets/frontend/reactquery.svg" />
-  <img width="30" height="30" src="./assets/frontend/reacthookform.svg" />
   <img width="30" height="30" src="./assets/frontend/webpack.svg" />
   <img width="30" height="30" src="./assets/frontend/vite.svg" />
 </div>
