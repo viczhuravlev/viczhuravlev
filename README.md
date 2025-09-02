@@ -47,5 +47,5 @@
 
 <div align="center">
   <img height="170px" alt="Viczhuravlev's github stats" src="https://github-readme-stats.vercel.app/api?username=viczhuravlev&show_icons=true&hide_border=true&theme=transparent" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=viczhuravlev&theme=transparent&mode=weekly&card_height=170" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=viczhuravlev&theme=transparent&card_height=170" alt="GitHub Streak" /></a>
 </div>
